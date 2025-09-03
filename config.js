@@ -214,19 +214,7 @@ var config = {
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
-        }',
-            description: '',
-            location: {
-                center: [28.673, 41.301],
-                zoom: 18,
-                pitch: 0,
-                bearing: 0
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
+        
         }
     ]
 };
