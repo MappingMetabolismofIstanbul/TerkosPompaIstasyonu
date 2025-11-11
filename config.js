@@ -188,33 +188,7 @@ var config = {
             rotateAnimation: false,
             callback: '',
             onChapterEnter: [],
-            onChapterExit: []
+            onChapterExit: []    
         },
-        {
-            id: 'nine-chapter',
-            alignment: 'right',
-            hidden: false,
-            title: '',
-            image: ',
-        {
-            id: 'seventh-chapter',
-            alignment: 'left',
-            hidden: false,
-            title: '',
-            image: 'https://i.ibb.co/Z6yyj9x9/MEF-AAP-027-BAP-2025-07-15-10-22-54.png',
-            description: '',
-            location: {
-                center: [28.673, 41.301],
-                zoom: 16,
-                pitch: 0,
-                bearing: 0
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        
-        }
     ]
 };
