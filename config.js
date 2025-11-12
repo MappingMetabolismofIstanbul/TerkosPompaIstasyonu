@@ -81,7 +81,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/tMDR4pNX/MEF-AAP-027-BAP-2025-07-15-10-17-48.png',
+            image: 'https://i.ibb.co/ZjBdXxz/MEF-AAP-027-BAP-2025-11-12-16-12-07.png',
             description: '',
             location: {
                 center: [28.673, 41.301],
