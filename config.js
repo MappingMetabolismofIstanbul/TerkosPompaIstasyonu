@@ -16,7 +16,7 @@ var config = {
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: 'Terkos Pompa İstasyonu / Terkos Water Pumping Station',
+    title: 'Terkos Su Pompa İstasyonu / Terkos Water Pumping Station',
     subtitle: '',
     byline: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
     footer: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
